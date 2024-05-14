@@ -1,8 +1,8 @@
 # Introduction 
 
-A small python project that tkaes inspiration from the kevin bacon rule.
+A small web scrapping project using beautifulsoup.
 
-The user will enter a wikipedia link and the will receive 6 different links that are related to their original wikipedia link.
+The user will enter a wikipedia link and will receive 6 different links that are related to their original wikipedia page.
 
 Included are 
 - demo of how to use the code
